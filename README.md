@@ -27,9 +27,9 @@ Estimate: 1d.
 
 Размеры платы составляют 57.3 x 27.2 x 1 (мм).
 
-![Top Layer](https://user-images.githubusercontent.com/86648566/201518845-c4c28703-9d9f-46c8-b5d5-39b075fb38f3.png)
-![Bottom Layer](https://user-images.githubusercontent.com/86648566/201518847-e511643b-36c0-40cf-9fb3-12f85dcd2595.png)
-[Schematic_ESP8266_TEST.pdf](https://github.com/Fantonrko/ESP8266-Test/files/9997039/Schematic_ESP8266_TEST.pdf)
+![Top Layer](https://user-images.githubusercontent.com/86648566/201519402-b8ec5123-54be-46d2-a2cb-d496d78c9f34.png)
+![Bottom Layer](https://user-images.githubusercontent.com/86648566/201519410-2654614a-b859-4b58-8fc6-872039f4ab01.png)
+[Schematic_ESP8266_TEST_2022-11-13.pdf](https://github.com/Fantonrko/ESP8266-Test/files/9997064/Schematic_ESP8266_TEST_2022-11-13.pdf)
 
 После отправки данных микроконтроллер переходит в режим сна ( DeepSleep ) для обеспечения максимального времени автономной работы.
 
