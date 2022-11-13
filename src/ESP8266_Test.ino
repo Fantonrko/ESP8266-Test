@@ -63,7 +63,7 @@ void loop() {
   it = (int) t;
   ih = (int) h;
   sendData(it, ih);
-
+  delay(2000);
   Serial.println("DeepSleep");
   ESP.deepSleep(3600e6);
 }
